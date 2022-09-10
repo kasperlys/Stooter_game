@@ -1,2 +1,2 @@
 # Stooter_game
-in this game u need kill aliens
+# in this game u need kill aliens
